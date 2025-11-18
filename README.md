@@ -1,5 +1,8 @@
 # Mapa Conceptual Interactivo: Computación en la Nube ☁️
-(https://view.genially.com/691ccf01a2d82938bbef4a57/interactive-content-computacion-en-la-nube)
+ingrese para ver el mapa conceptual 
+(https://view.genially.com/691ccf01a2d82938bbef4a57/interactive-content-computacion-en-la-nube).
+
+
 Este repositorio contiene un **mapa conceptual interactivo** desarrollado con Genially, que explora los conceptos fundamentales de la **computación en la nube**: tipos de nube, modelos de servicio y proveedores principales.
 
 ## 🔍 ¿Qué puedes ver?
